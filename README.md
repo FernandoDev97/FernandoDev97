@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoDev97&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu me dedico.
+## Tecnologias que eu me dedico 👨‍💻
 
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -19,12 +19,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev97&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-Estudante, apaixonado por Tecnologia e por ajudar a solucionar problemas através da programação...
+Estudante, apaixonado por Tecnologia e por ajudar a solucionar problemas através da programação... 🎓
 
 ## Alguns projetos pessoais:
 
 -[Cadastro de usuários - React.js](https://github.com/FernandoDev97/Cadastro-de-Usuarios-CRUD)<br/>
--[Netflix Clone - React.js](https://github.com/FernandoDev97/Netflix-Clone-REACT)
--[GitHub Profile - React.js](https://github.com/FernandoDev97/GitHub-Profile)
+-[Netflix Clone - React.js](https://github.com/FernandoDev97/Netflix-Clone-REACT)<br/>
+-[GitHub Profile - React.js](https://github.com/FernandoDev97/GitHub-Profile)<br/>
 
 
