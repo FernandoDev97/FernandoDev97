@@ -5,8 +5,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.souza.5686322)
 
 <div >
-  <img height="200px"  src="https://github-readme-stats.vercel.app/api?username=FernandoDev97&show_icons=true&theme=tokyonight"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev97&langs_count=8&theme=tokyonight"/>
+  <img height="220px"  src="https://github-readme-stats.vercel.app/api?username=FernandoDev97&show_icons=true&theme=tokyonight"/>
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev97&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## Tecnologias que eu me dedico 👨‍💻
