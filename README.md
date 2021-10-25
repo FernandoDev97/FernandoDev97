@@ -4,27 +4,35 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.fernando.rs/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.souza.5686322)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoDev97&show_icons=true&theme=tokyonight)
+<div >
+  <img height="240px"  src="https://github-readme-stats.vercel.app/api?username=FernandoDev97&show_icons=true&theme=tokyonight"/>
+  <img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev97&langs_count=8&theme=tokyonight"/>
+</div>
 
 ## Tecnologias que eu me dedico 👨‍💻
 
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev97&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br/>
+##
 
-Estudante, apaixonado por Tecnologia e por ajudar a solucionar problemas através da programação... 🎓
+### Estudante, apaixonado por Tecnologia e por ajudar a solucionar problemas através da programação... 🎓
+
+##
 
 ## Alguns projetos pessoais:
 
 -[Cadastro de usuários - React.js](https://github.com/FernandoDev97/Cadastro-de-Usuarios-CRUD)<br/>
 -[Netflix Clone - React.js](https://github.com/FernandoDev97/Netflix-Clone-REACT)<br/>
 -[GitHub Profile - React.js](https://github.com/FernandoDev97/GitHub-Profile)<br/>
+
+![Snake animation](https://github.com/FernandoDev97/FernandoDev97/blob/output/github-contribution-grid-snake.svg)
 
 
