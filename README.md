@@ -23,7 +23,7 @@
 
 ##
 
-### Estudante, apaixonado por Tecnologia e por ajudar a solucionar problemas através da programação... 🎓
+### Estudante, apaixonado por Tecnologia e por ajudar pessoas a solucionar problemas através da programação... 🎓
 
 ##
 
