@@ -1,4 +1,4 @@
-## Olá, me chamo Fernando Souza, seja bem vindo ao meu GitHub 🤙
+## Hello, my name is Fernando Souza, welcome to my GitHub 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-souza-6844341b7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.fernando.rs/)
@@ -9,7 +9,7 @@
   <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev97&langs_count=8&theme=tokyonight"/>
 </div>
 
-## Tecnologias que eu me dedico 👨‍💻
+## Technologies that I dedicate myself to 👨‍💻
 
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -23,11 +23,12 @@
 
 ##
 
-### Desenvolvedor Web, estudante, apaixonado por Tecnologia e por ajudar pessoas a solucionar problemas através da programação... 🎓
+### 
+Full Web Developer, student, passionate about Technology and helping people solve problems through programming... 🎓
 
 ##
 
-## Alguns projetos pessoais:
+## Some personal projects:
 
 -[Cadastro de usuários - React.js](https://github.com/FernandoDev97/Cadastro-de-Usuarios-CRUD)<br/>
 -[Netflix Clone - React.js](https://github.com/FernandoDev97/Netflix-Clone-REACT)<br/>
