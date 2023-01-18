@@ -28,12 +28,5 @@ Full Web Developer, student, passionate about Technology and helping people solv
 
 ##
 
-## Some personal projects:
-
--[Cadastro de usuários - React.js](https://github.com/FernandoDev97/Cadastro-de-Usuarios-CRUD)<br/>
--[Netflix Clone - React.js](https://github.com/FernandoDev97/Netflix-Clone-REACT)<br/>
--[GitHub Profile - React.js](https://github.com/FernandoDev97/GitHub-Profile)<br/>
-
-![Snake animation](https://github.com/FernandoDev97/FernandoDev97/blob/output/github-contribution-grid-snake.svg)
 
 
