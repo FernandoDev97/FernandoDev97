@@ -1,4 +1,4 @@
-## Olá, sejva bem vindo e fique a vontade! 🤙
+## Olá, seja bem vindo e fique a vontade! 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-souza-6844341b7/)
 
